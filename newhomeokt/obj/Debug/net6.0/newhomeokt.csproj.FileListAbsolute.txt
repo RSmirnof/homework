@@ -1,0 +1,15 @@
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/newhomeokt.csproj.AssemblyReference.cache
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/newhomeokt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/newhomeokt.AssemblyInfoInputs.cache
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/newhomeokt.AssemblyInfo.cs
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/newhomeokt.csproj.CoreCompileInputs.cache
+/Users/romansmirnov/Documents/Homework/newhomeokt/bin/Debug/net6.0/newhomeokt
+/Users/romansmirnov/Documents/Homework/newhomeokt/bin/Debug/net6.0/newhomeokt.deps.json
+/Users/romansmirnov/Documents/Homework/newhomeokt/bin/Debug/net6.0/newhomeokt.runtimeconfig.json
+/Users/romansmirnov/Documents/Homework/newhomeokt/bin/Debug/net6.0/newhomeokt.dll
+/Users/romansmirnov/Documents/Homework/newhomeokt/bin/Debug/net6.0/newhomeokt.pdb
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/newhomeokt.dll
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/refint/newhomeokt.dll
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/newhomeokt.pdb
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/newhomeokt.genruntimeconfig.cache
+/Users/romansmirnov/Documents/Homework/newhomeokt/obj/Debug/net6.0/ref/newhomeokt.dll
